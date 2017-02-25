@@ -66,7 +66,7 @@ margin-left:16.6666%;
    float:left;
    box-sizing: border-box;
    padding:5px;
-   border:1px solid lightgray;
+   /*border:1px solid lightgray;*/
 }
 img{
 	width:100%;
