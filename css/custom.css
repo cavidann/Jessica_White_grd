@@ -1,0 +1,73 @@
+body{
+    background: blue;
+}
+.main{
+    width: 900px;
+    margin: 0 auto;
+    background: white;
+}
+.ortala{
+    height: auto;
+    width: 700px;
+    margin: 0 auto;
+    background: white;
+}
+.ortala1{
+    height:284px;
+    width: 700px;
+    margin: 0 auto;
+    background: white;
+}
+.bblack{
+    height:284px;
+    width: 100%;
+    margin: 0 auto;
+       background: black;
+}
+.ortala2{
+    height:284px;
+    width: 700px;
+    margin: 0 auto;
+    
+}
+.height1{
+height: 1px;
+}
+.height2{
+    height: 80px;
+}
+.height3{
+    height: 40px;
+}
+.height4{
+    height: 420px;
+}
+.height5{
+   height: 180px;
+}
+.height6{
+   height: 30px;
+}
+.height7{
+    height: 280px;
+}
+.height8{
+    height: 220px;
+}
+.margintop{
+    margin-top: 20px; 
+}
+.margintop1{
+ margin-top: 40px;
+}
+.clear{
+    clear: both;
+}
+.line{
+    width: 99.6%;
+border: 2px solid;
+}
+.red{
+    border-color:red; 
+}
+
